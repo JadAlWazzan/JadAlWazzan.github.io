@@ -27,18 +27,16 @@ function Home2() {
               </i>
               <br />
               <br />
-              I'm always interested in building new&nbsp;
+                  I'm always interested in building new&nbsp;
               <i>
-                <b className="purple">Web Technologies and Products.  </b>
-                Also have an interest in {" "}
-                <b className="purple">
-                  Data Analysis, Cyber Security, and Machine Learning.
-                </b>
+                Web Technologies and Products.
+                Also have an interest in {" "} Data Analysis, Cyber Security, and Machine Learning.
+
               </i>
               <br />
               <br />
-              In my free time, I'd be learning new technologies or, doing some &nbsp;
-              <b className="purple">Web Development by building some cool and awesome projects.</b>
+              In my free time, I like to learn new technologies or, work on some &nbsp;
+              <b className="purple">Web Development </b> by building some cool and awesome projects.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
