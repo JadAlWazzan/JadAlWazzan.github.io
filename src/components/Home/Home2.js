@@ -19,25 +19,26 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming at a young age. 🤷‍♂️
+              Passionate about turning ideas into impactful digital solutions. 🚀
               <br />
-              <br />I am fluent in classics like
+              <br />I specialize in
               <i>
-                <b className="purple"> Java, Javascript, and Python. </b>
+                <b className="purple"> Java, JavaScript, TypeScript, and Python </b>
               </i>
+              — blending development and analytics to build smart, data-driven products.
               <br />
               <br />
-                  I'm always interested in building new&nbsp;
+              I’m especially interested in
               <i>
-                Web Technologies and Products.
-                Also have an interest in {" "} Data Analysis, Cyber Security, and Machine Learning.
-
+                <b className="purple"> Web Technologies, Data Analysis, and Machine Learning, </b>
               </i>
+              and love automating workflows that make life easier.
               <br />
               <br />
-              In my free time, I like to learn new technologies or, work on some &nbsp;
-              <b className="purple">Web Development </b> by building some cool and awesome projects.
+              In my free time, I explore new tech stacks and work on
+              <b className="purple"> web apps and data projects </b> that challenge my creativity.
             </p>
+
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>

@@ -11,7 +11,7 @@ function AboutCard() {
             I am <span className="purple">Jad Al Wazzan </span>
             originally from <span className="purple"> Lebanon.</span>
             <br />
-            Currently living in <span className="purple"> Richmond, VA.</span>
+            Currently living in <span className="purple"> Dubai, UAE.</span>
             <br />
             <br />
             A highly skilled and experienced full-stack developer with a passion for building innovative and user-friendly web applications. With expertise in various programming languages and frameworks, I tackle complex projects with ease.

@@ -49,12 +49,12 @@ function ResumeNew() {
             <Page pageNumber={1} scale={getScale()} />
           </Document>
         </Row>
-        {/* <Row className="resume">
+        <Row className="resume">
           <Document file={resumeLink} className="d-flex justify-content-center">
             <Page pageNumber={2} scale={getScale()} />
           </Document>
         </Row>
-        <Row className="resume">
+        {/* <Row className="resume">
           <Document file={resumeLink} className="d-flex justify-content-center">
             <Page pageNumber={3} scale={getScale()} />
           </Document>
